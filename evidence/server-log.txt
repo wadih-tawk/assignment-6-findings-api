@@ -1,0 +1,30 @@
+Server output (stdout + stderr) during the curl transcript.
+The server was restarted once (Part 2 of the transcript).
+
+connected to MongoDB
+Listening on http://localhost:3001
+4:02:02 AM GET /
+4:02:02 AM POST /api/findings
+4:02:02 AM POST /api/findings
+4:02:02 AM GET /api/findings
+4:02:02 AM GET /api/findings
+4:02:02 AM GET /api/findings
+4:02:02 AM GET /api/findings/6ae2a91a798825142e2b87c6
+4:02:02 AM PUT /api/findings/6ae2a91a798825142e2b87c6
+4:02:02 AM PATCH /api/findings/6ae2a91a798825142e2b87c6
+4:02:02 AM DELETE /api/findings/6ae2a91a798825142e2b87c6
+4:02:02 AM GET /api/findings/6ae2a91a798825142e2b87c6
+connected to MongoDB
+Listening on http://localhost:3001
+4:02:03 AM GET /api/findings/6ae2a91a798825142e2b87c7
+4:02:03 AM POST /api/findings
+4:02:03 AM POST /api/findings
+4:02:03 AM POST /api/findings
+4:02:03 AM POST /api/findings
+4:02:03 AM POST /api/findings
+4:02:03 AM GET /api/findings/abc
+4:02:03 AM GET /api/findings/507f1f77bcf86cd799439011
+4:02:03 AM PUT /api/findings/6ae2a91a798825142e2b87c7
+4:02:03 AM PATCH /api/findings/6ae2a91a798825142e2b87c7
+4:02:03 AM GET /api/nope
+4:02:03 AM DELETE /api/findings/6ae2a91a798825142e2b87c7
